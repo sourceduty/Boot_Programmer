@@ -14,6 +14,10 @@ In addition to providing technical support, this custom GPT also focuses on fost
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[OS Developer](https://github.com/sourceduty/OS_Developer)
+<br>
+[Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
