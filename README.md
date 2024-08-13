@@ -93,6 +93,8 @@ Step 6: Maintenance and Adjustments
 [OS Developer](https://github.com/sourceduty/OS_Developer)
 <br>
 [Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
+<br>
+[Taskbar Programmer](https://github.com/sourceduty/Taskbar_Programmer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
