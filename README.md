@@ -95,6 +95,8 @@ Step 6: Maintenance and Adjustments
 [Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
 <br>
 [Taskbar Programmer](https://github.com/sourceduty/Taskbar_Programmer)
+<br>
+[Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
