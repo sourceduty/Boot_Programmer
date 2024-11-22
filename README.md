@@ -20,6 +20,13 @@ On Linux distributions like Ubuntu, the boot process is more transparent and dev
 The Raspberry Pi (RPI) offers perhaps the simplest and most accessible approach for booting directly into a program. This is due to its lightweight bootloader and the highly customizable nature of its primary OS, Raspberry Pi OS (a Debian-based distribution). By editing the config.txt and cmdline.txt files in the /boot partition, you can bypass the standard boot sequence to execute a specific script or program. Additionally, the Pi supports bare-metal programming, allowing you to replace the operating system entirely with your code. This simplicity and flexibility make the Raspberry Pi an excellent choice for those wanting to program a straightforward boot-to-program process, especially for embedded systems or learning purposes.
 
 #
+### USB Booting
+
+USB booting allows a computer to start up from an operating system or environment stored on a USB drive rather than its internal storage. This is a versatile solution for troubleshooting, testing, or running lightweight systems without altering the host computer. Modern BIOS/UEFI firmware supports USB booting as an option, enabling users to load recovery tools, diagnostics utilities, or even complete operating systems. Creating a bootable USB involves formatting the drive correctly and writing the desired bootable image or program, often using tools like Rufus, balenaEtcher, or diskpart. With USB booting, users can bypass potentially corrupted or inaccessible internal operating systems, making it an invaluable tool for IT professionals and advanced users.
+
+USB booting to programs takes this concept a step further, allowing specific applications or environments to run directly from the USB. For instance, tools like Windows PE (Preinstallation Environment) or lightweight Linux distributions can boot directly into a terminal or graphical user interface designed for maintenance tasks. Custom environments can also be configured to launch specific programs or scripts on startup, such as disk recovery utilities, security scanners, or data management tools. This approach is particularly advantageous when needing a highly portable and non-intrusive way to run specialized software, as the USB serves as both the boot medium and the execution environment for the required application.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
