@@ -21,7 +21,7 @@ On Linux distributions like Ubuntu, the boot process is more transparent and dev
 
 The Raspberry Pi (RPI) offers perhaps the simplest and most accessible approach for booting directly into a program. This is due to its lightweight bootloader and the highly customizable nature of its primary OS, Raspberry Pi OS (a Debian-based distribution). By editing the config.txt and cmdline.txt files in the /boot partition, you can bypass the standard boot sequence to execute a specific script or program. Additionally, the Pi supports bare-metal programming, allowing you to replace the operating system entirely with your code. This simplicity and flexibility make the Raspberry Pi an excellent choice for those wanting to program a straightforward boot-to-program process, especially for embedded systems or learning purposes.
 
-=============================================================================================
+=====================================================
 
 Dedicating a laptop to run a single program alongside a limited file manager requires streamlined configurations. First, the chosen program (e.g., Notepad, Photoshop, Music Player, or IDLE for Python) will be set as the default and potentially auto-launched during startup. System resources should be optimized for this program by disabling unnecessary background processes. The file manager will be configured to only access external drives, preventing internal storage access for saving and opening files. Users will need an external drive for all file operations, ensuring a clean and focused workspace.
 
